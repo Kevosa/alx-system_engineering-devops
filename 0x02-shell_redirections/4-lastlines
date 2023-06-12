@@ -1,2 +1,2 @@
 #!/bin/bash
-touch -n /etc/passwd
+touch -n 10 /etc/passwd
